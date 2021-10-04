@@ -9,4 +9,4 @@ What | Why
 Zoom cell 1 | Leading network for Communication in the Remote World
 Lab 3 | Helps you understanding coding concepts
 
-[Home](../README.md)
+[Home](/README.md)
